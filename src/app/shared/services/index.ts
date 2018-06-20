@@ -1,0 +1,1 @@
+export { VsTranslateService } from './vs-translate.service';
